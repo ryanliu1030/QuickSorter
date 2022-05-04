@@ -38,6 +38,6 @@ public class Main {
             report.close();
         }
         else
-            System.out.println("Please Input Valid Arguments in Command Lines");
+            System.out.println("Please input 4 lines for the commands.");
     }
 }
