@@ -33,7 +33,7 @@ public class Main {
             report.println("Array Size = " + size);
             report.println("FIRST_ELEMENT : " + firstElement);
             report.println("RANDOM_ELEMENT : " + randElement);
-            report.println("MEDIAN_OF_THREE_RANDOM _ELEMENTS : " + medianRandThree);
+            report.println("MEDIAN_OF_THREE_RANDOM_ELEMENTS : " + medianRandThree);
             report.println("MEDIAN_OF_THREE_ELEMENTS : " + medianThree);
             report.close();
         }
